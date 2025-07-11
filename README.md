@@ -30,6 +30,4 @@ I'm passionate about building impactful solutions with technology. My favorite p
 
 Feel free to reach out for collaboration or just a chat about tech, coding, or basketball!
 ---
-[![](https://visitcount.itsvg.in/api?id=prakharmi&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=prakharmi&label=Profile%20views&color=0e75b6&style=flat" alt="prakharmi" /> </p>
